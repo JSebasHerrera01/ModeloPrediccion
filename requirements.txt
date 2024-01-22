@@ -5,5 +5,5 @@ sklearn
 sklearn
 sklearn
 xgboost 
-sklearn
+scikit-learn
 matplotlib
