@@ -1,9 +1,6 @@
 streamlit
 pandas 
 numpy 
-sklearn
-sklearn
-sklearn
 xgboost 
 scikit-learn
 matplotlib
